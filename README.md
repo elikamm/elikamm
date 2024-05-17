@@ -4,7 +4,7 @@ I am [**Elias Kamm**](https://eliaskamm.com/) or **@elikamm** for short. Welcome
 
 You can also find me on [X (Twitter)](https://x.com/eliaskamm), [YouTube](https://www.youtube.com/@eliaskamm) and [Twitch](https://twitch.tv/eliaskamm) as **@eliaskamm**.
 
-Visit [eliaskamm.com/about](https://eliaskamm.com/about/) to learn more about me or [eliaskamm.com/projects](https://eliaskamm.com/projects/) to see some of my projects.
+Visit [eliaskamm.com](https://eliaskamm.com/) to learn more about me.
 
 <!--
 **elikamm/elikamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
